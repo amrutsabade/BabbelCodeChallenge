@@ -6,6 +6,6 @@ Regarding distribution i spent around 1-1.5 hour understanding and Conceptualizi
 
 I Went ahead with MVVM Archicture for the app and handling all the business logic in ViewModel
 
-Due to resctriction I have not written UI Tests which also UI I have kept it simple 
+Due to resctriction I have not written UI Tests  also I have kept  UI simple 
 
-If I had more time I would focus on adding new more tests, making code more sclable and also using combine(currently learning) 
+If I had more time I would focus on adding more tests, making code more sclable, and also using combine(currently learning) 
